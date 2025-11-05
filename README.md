@@ -1,1 +1,1 @@
-# simple-game 12345
+# simple-game xxxxx
